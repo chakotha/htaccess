@@ -1,4 +1,4 @@
-# .htaccess Snippets Fork
+# .htaccess Snippets Fork 2
 A collection of useful .htaccess snippets, all in one place. 
 
 **Disclaimer**: While dropping the snippet into an `.htaccess` file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.
